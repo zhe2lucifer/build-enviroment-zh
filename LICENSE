@@ -1,0 +1,19 @@
+Different components of oe-a build-enviroment are under different licenses (a mix of 
+MIT and GPLv2). Please see:
+
+bitbake/COPYING (GPLv2)
+meta-oe-alliance/LICENSE
+meta-openembedded/COPYING.MIT (MIT)
+meta-qt5/COPYING.MIT (MIT)
+openembedded-core/LICENSE
+
+Makefile  2010-2012 Dream Multimedia GmbH, Germany  (MIT)
+Makefile  2012-2017 oe-a (GPLv2)
+
+which cover the components in those subdirectories. This means all 
+metadata is MIT licensed unless otherwise stated. Source code included 
+in tree for individual recipes is under the LICENSE stated in the .bb 
+file for those software projects unless otherwise stated.
+
+License information for any other files is either explicitly stated 
+or defaults to GPL version 2.

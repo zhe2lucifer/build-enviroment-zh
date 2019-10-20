@@ -1,0 +1,24 @@
+[submodule "bitbake"]
+	path = bitbake
+	url = https://github.com/zhe2lucifer/bitbake-zh.git
+	branch = master-dev-4.3
+[submodule "meta-oe-alliance"]
+	path = meta-oe-alliance
+	url = https://github.com/zhe2lucifer/oe-alliance-core-zh.git
+	branch = 4.3-dev
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = https://www.github.com/zhe2lucifer/openembedded-core-zh.git
+	branch = master-dev-4.3
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded.git
+	branch = master-dev-4.3
+[submodule "meta-go"]
+	path = meta-go
+	url = git://github.com/mem/oe-meta-go
+	branch = master-dev-4.3
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = git://github.com/meta-qt5/meta-qt5.git
+	branch = master-dev-4.3
