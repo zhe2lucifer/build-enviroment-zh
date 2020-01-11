@@ -62,6 +62,7 @@ BBLAYERS ?= \
 	$(CURDIR)/meta-oe-alliance/meta-brands/meta-protek \
 	$(CURDIR)/meta-oe-alliance/meta-brands/meta-skylake \
 	$(CURDIR)/meta-oe-alliance/meta-brands/meta-tiviar \
+	$(CURDIR)/meta-oe-alliance/meta-brands/meta-torch \
 	$(CURDIR)/meta-oe-alliance/meta-brands/meta-tripledot \
 	$(CURDIR)/meta-oe-alliance/meta-brands/meta-uclan \
 	$(CURDIR)/meta-oe-alliance/meta-brands/meta-ultramini \
